@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-This is a messanger clone.
+This is a messanger clone built using nextjs, tailwind, and mongo db
 
 First, run the development server:
 
